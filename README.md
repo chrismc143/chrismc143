@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Chris McLean - The Cybersecurity Guy 👋
+<a href="https://linkedin.com/in/chrisandremclean/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoCOlor=white" /></a>
 
 <!--
 **chrismc143/chrismc143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
