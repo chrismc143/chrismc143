@@ -1,7 +1,8 @@
 ## Hi there, I'm Chris McLean - The Cybersecurity Guy 👋
 <a href="https://linkedin.com/in/chrisandremclean/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoCOlor=white" /></a>
 
-[Brief Introduction]
+## Brief Introduction
+
 I'm an IT professional transitioning into cybersecurity with experience in Active Directory administration, Microsoft 365 support, endpoint deployment, and enterprise technical support.
 
 Currently focusing on:
